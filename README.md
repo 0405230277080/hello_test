@@ -1,2 +1,2 @@
-# hello_test
+# bw_config
 creating git
